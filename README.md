@@ -14,4 +14,7 @@ This is a chat application which is developed upon a peer to peer architecture. 
 6. all pdu's are logged with its username(user3.txt and user1.txt) as filename --->(only server logs the info)
 7. all connection requests and socket info are logged in main_file_log.txt
 
+# Visual Demonstration
+ file:///home/techno/Downloads/Secure%20Chat/Demonstration.webm
+
 Note: The program has been developed and tested on Linux only.
