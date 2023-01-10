@@ -1,3 +1,6 @@
+Introduction
+This is a chat application which is developed upon a peer to peer architecture. It uses Mutual Challenge Handshake Protocol (CHAP) for authenticating the user. Every message sent with this program is encrypted with a unique key ensuring its stringent security standard.
+
 Requirements
 1. Install pycryptodome with the following command. pip install pycryptodome
 2. Install pycryptodomex with the following command. pip install pycryptodomex
