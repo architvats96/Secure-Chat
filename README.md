@@ -15,5 +15,7 @@ This is a chat application which is developed upon a peer to peer architecture. 
 7. all connection requests and socket info are logged in main_file_log.txt
 
 # Visual Demonstration
+[Demonstration.webm](https://user-images.githubusercontent.com/43727792/211549176-c4b5a9e4-9f95-45f0-bf45-6b53ca248885.webm)
+
 
 Note: The program has been developed and tested on Linux only.
