@@ -1,0 +1,8 @@
+
+1. Password - passwords are stored in plain text in the server's directory and even the public key is send in plain text so if the user gets hold of the directory and sniffs the public key the shared secret can be generated. 
+
+2. DOS - our server is running on a random port which can be scanned by any scanning tools and can flood our server with multiple packets. The tools like hpin3, nampa can be used for shutting down our server. The server will try to receive all the packets from the connected port only if it receives continous packets within the buffer limit. Also at the time of input user enters a large amount of data or strings then the server will forecefully shutdown.
+
+3. Server receives a limited amount of data at a time that is 2048 and if it receives a more amount of data from the client then the program may die due to the overload of characters which aren't expected.
+
+4. CRC32 is crackabable but with only a percentage of 1/2^32 which is infinitly small so it might be a minor vulnearability.

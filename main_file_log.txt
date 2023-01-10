@@ -1,0 +1,28 @@
+2022-02-04 09:06:27.132217::INFO::user1::Socket listening on 127.0.0.1 and port 1234
+2022-02-04 09:06:35.652171::INFO::user3::Socket listening on 127.0.0.1 and port 4321
+2022-02-04 09:06:37.651823::INFO::user1::Connected to 127.0.0.1 on 4321
+2022-02-04 09:06:39.612292::INFO::user3::Connected to 127.0.0.1 on 1234
+2022-02-04 09:52:02.952583::INFO::user1::Socket listening on 127.0.0.1 and port 1234
+2022-02-04 09:52:13.292179::INFO::user3::Socket listening on 127.0.0.1 and port 4321
+2022-02-04 09:52:20.804981::INFO::user1::Connected to 127.0.0.1 on 4321
+2022-02-04 09:52:23.928015::INFO::user3::Connected to 127.0.0.1 on 1234
+2022-02-04 11:26:02.063362::INFO::user1::Socket listening on 127.0.0.1 and port 1234
+2022-02-04 11:26:22.419533::INFO::user3::Socket listening on 127.0.0.1 and port 4321
+2022-02-04 11:27:44.463466::INFO::user1::Socket listening on 127.0.0.1 and port 1234
+2022-02-04 11:27:59.699766::INFO::user3::Socket listening on 127.0.0.1 and port 4321
+2022-02-04 11:28:01.100261::INFO::user3::Connected to 127.0.0.1 on 1234
+2022-02-04 11:28:04.284307::INFO::user1::Connected to 127.0.0.1 on 4321
+2023-01-10 11:00:26.606726::INFO::user1::Socket listening on 127.0.0.1 and port 1234
+2023-01-10 11:00:42.826562::INFO::user3::Socket listening on 127.0.0.1 and port 4321
+2023-01-10 11:00:51.556328::INFO::user1::Connected to 127.0.0.1 on 4321
+2023-01-10 11:00:54.591900::INFO::user3::Connected to 127.0.0.1 on 1234
+2023-01-10 11:01:26.812200::INFO::user1::Socket listening on 127.0.0.1 and port 1234
+2023-01-10 11:01:27.685220::INFO::user1::Connected to 127.0.0.1 on 4321
+2023-01-10 11:43:19.605731::INFO::user1::Socket listening on 127.0.0.1 and port 1234
+2023-01-10 11:43:27.906374::INFO::user3::Socket listening on 127.0.0.1 and port 4321
+2023-01-10 11:43:29.640009::INFO::user3::Connected to 127.0.0.1 on 1234
+2023-01-10 11:43:31.618004::INFO::user1::Connected to 127.0.0.1 on 4321
+2023-01-10 11:51:21.819562::INFO::user1::Socket listening on 127.0.0.1 and port 1234
+2023-01-10 11:51:30.906834::INFO::user3::Socket listening on 127.0.0.1 and port 4321
+2023-01-10 11:51:33.632480::INFO::user1::Connected to 127.0.0.1 on 4321
+2023-01-10 11:51:35.964235::INFO::user3::Connected to 127.0.0.1 on 1234
