@@ -15,6 +15,5 @@ This is a chat application which is developed upon a peer to peer architecture. 
 7. all connection requests and socket info are logged in main_file_log.txt
 
 # Visual Demonstration
- file:///home/techno/Downloads/Secure%20Chat/Demonstration.webm
 
 Note: The program has been developed and tested on Linux only.
