@@ -1,0 +1,15 @@
+2024-09-11 11:10:50.761414::INFO::user1::Socket listening on 127.0.0.1 and port 1234
+2024-09-11 11:11:18.623072::INFO::user3::Socket listening on 127.0.0.1 and port 4321
+2024-09-11 11:15:40.214846::INFO::user1::Socket listening on 127.0.0.1 and port 1234
+2024-09-11 11:15:53.009558::INFO::user3::Socket listening on 127.0.0.1 and port 4321
+2024-09-11 11:16:00.735094::INFO::user1::Connected to 127.0.0.1 on 4321
+2024-09-11 11:16:02.371541::INFO::user3::Connected to 127.0.0.1 on 1234
+2024-09-11 11:20:28.287200::INFO::user1::Socket listening on 127.0.0.1 and port 1234
+2024-09-11 11:20:39.732107::INFO::user3::Socket listening on 127.0.0.1 and port 4321
+2024-09-11 11:20:53.270893::INFO::user1::Socket listening on 127.0.0.1 and port 1234
+2024-09-11 11:20:55.061390::INFO::user1::Connected to 127.0.0.1 on 4321
+2024-09-11 11:20:57.386617::INFO::user3::Connected to 127.0.0.1 on 1234
+2024-09-11 11:24:50.964435::INFO::user1::Socket listening on 127.0.0.1 and port 1234
+2024-09-11 11:25:00.849866::INFO::user3::Socket listening on 127.0.0.1 and port 4321
+2024-09-11 11:25:03.074818::INFO::user1::Connected to 127.0.0.1 on 4321
+2024-09-11 11:25:04.903551::INFO::user3::Connected to 127.0.0.1 on 1234
